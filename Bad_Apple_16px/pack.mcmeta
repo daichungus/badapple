@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"description": "Replace apple texture with Bad Apple!! PV",
+		"pack_format": 22,
+		"supported_formats": [22, 99],
+		"min_format": 22,
+		"max_format": 99
+	}
+}
